@@ -31,5 +31,5 @@ for item in countryList:
         else:
             print(countryData)
     except:
-        print("\n\n")
+        print("\n")
         print("ERROR FOR : \n", countryData)
